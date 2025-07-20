@@ -15,4 +15,7 @@ I'm a newbie trying to explore new stuffs and learn from it :heart: .
 
 **Talking about personal stuffs:**
 - Currently pursuing BS in Datascience and Applications at IIT-Madras
-- Learning DSA :skull:
+- Learning DSA &nbsp;<img src="cat-typing.gif" width="28" style="vertical-align: middle;">
+
+
+
