@@ -1,4 +1,4 @@
-### <div align='center'>Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </div>
+### <div align='center'>Hey there, I'm [Sivabalan!]([https://github.com/sivabalan-sv01])! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </div>
 <br />
 <br />
 I'm a newbie trying to explore new stuffs and learn from it :heart: .
